@@ -1,4 +1,3 @@
-
 #!/bin/bash
 echo "Start printing"
 echo "Enter how many rows you want to print"
